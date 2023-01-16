@@ -10,7 +10,7 @@
 
 ### My profile overview:
 
-![Thiago's github stats](https://github-readme-stats.vercel.app/api?username=thiagobruno&show_icons=true&count_private=true&hide=issues,contribs&theme=tokyonight)
+![Thiago's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=thiagobruno&show_icons=true&count_private=true&hide=issues,contribs&theme=tokyonight)
 
 <br/>
 
