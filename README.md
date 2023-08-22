@@ -17,10 +17,6 @@
 
 ### About Myself
 
-UI Design, Full Stack web and mobile development, game design are my currently passions, I work hard to deliver the best experience and satisfaction to the final user.
-
-Born in Sao Paulo/Brazil, always enterprising, work with IT and design for over 25 years and has developed work for large companies and many customers.
-
 I am ahead of challenges in modern, global, innovative solutions!
 
 Experienced with all stages of the development cycle for dynamic web projects, also in management and leadership.
